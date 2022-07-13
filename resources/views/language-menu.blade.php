@@ -1,6 +1,6 @@
 <li class="dropdown messages-menu">
     <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-        <i class="fa fa-language"></i>
+        <i class="fa fa-language">{{admin_trans('admin.language')}}</i>
     </a>
     <ul class="dropdown-menu">
         <li>
